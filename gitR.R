@@ -1,6 +1,6 @@
 # Headline
 
-n <-c(1,2,3)
+n <-c(100,200,3)
 s <- seq(from =1,to=10, by=2)
 
 # Important feature
@@ -8,3 +8,5 @@ s <- seq(from =1,to=10, by=2)
 # I love you
 
 # New feature
+
+# Crazy idea
