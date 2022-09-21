@@ -5,9 +5,7 @@ s <- seq(from =1,to=10, by=2)
 
 # Important feature
 
-# I love you
 
 
-
-# Crazy idea
+# An alternative way forward
 # New feature - adding something
